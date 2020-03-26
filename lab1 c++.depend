@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585206610 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab1 c++\main.cpp
+	<iostream>
+	<string>
+	"class.h"
+
+1585252397 c:\users\sasha\desktop\”нивер\€зыки прогрм\lab1 c++\class.h
+
+1585205523 source:c:\users\sasha\desktop\”нивер\€зыки прогрм\lab1 c++\product.cpp
+	<iostream>
+	"class.h"
+	<cstring>
+
